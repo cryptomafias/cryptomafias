@@ -2,7 +2,7 @@
 Online Multiplayer Mafia party game built on Ethereum. Stake coins! Win the Game! Get the reward!
 
 ## Inspiration
-We found that most of the projects in this space heavily are collectible based and nothing like the Web2 games we are used to. This makes the gaming experience very isolated and static. While you can collect NFTs and in some cases do something with it but they rarely have meaningful interactions. We wanted to change this and make a game that in its very core feels like your regular Web2 games that you can enjoy with your friends but with the added benefits and security of blockchain.
+We found that most of the blockchain game projects in this space are using traditional web2 technology for hosting gameplay. So, we decided to create a game that utilizes web3 technologies as much as possible for our project and create services like real-time chat, game rooms, player profile that can be used by other games. This services are very common among modern online multiplayer games and we need a reliable and scalable alternative that uses web3 techstack. So, we have decided to create a game that incorporates all this features.
 
 ## What it does
 We have built a blockchain incentivized online multiplayer mafia party Game.
